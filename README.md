@@ -58,7 +58,6 @@ optional arguments:
 
 ```консоль
 $ csc https://github.com/zokMeodoff/otus_hw1 -f=console -p=noun -c=var
-statistics:
 trees 4
 functions 3
 names 2
